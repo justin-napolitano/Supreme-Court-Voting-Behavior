@@ -3,7 +3,7 @@
 
     The Supreme Court Voting Behvaior paper was written by Justin Napolitano as an independet research project. 
     
-     It is an analysis of the voting behavior of the United States Supreme Court Justices in relation to the case Masterpiece Cakeshop, Ltd. v. Colorado Civil Rights Comm’n :footcite:t:`masterpieceCake`. 
+     It is an analysis of the voting behavior of the United States Supreme Court Justices in relation to the case Masterpiece Cakeshop, Ltd. v. Colorado Civil Rights Comm’n :footcite:t:`masterpiececake`. 
  
 
 The documentation will present the first version of a paper by Justin Napolitano. 

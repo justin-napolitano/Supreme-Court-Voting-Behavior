@@ -46,7 +46,8 @@ extensions = [
  
  
 bibtex_bibfiles = ['refs.bib', 'cases.bib']
-#bibtex_reference_style = 'label'
+bibtex_reference_style = 'label'
+bibtex_default_style = 'unsrt'
 
 # Add any paths that contain templates here, relative to this directory.
 templates_path = ['_templates']

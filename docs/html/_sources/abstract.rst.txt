@@ -26,5 +26,5 @@ Justices, legal theorists, and laymen alike attempt to surmise the factors that 
 
 In this paper, the legal model to the attitidunal model to determine which best predicts, and more importantly which best descibes the decision-making process of US Supreme Court Justices.  
 
-I will test each model by attempting to predict the outcome of the upcoming case Masterpiece Cakeshop v. Colorado Civil Rights Commision :footcite:t:`masterpieceCake` using the framework proposed by proponents of each model.
+I will test each model by attempting to predict the outcome of the upcoming case Masterpiece Cakeshop v. Colorado Civil Rights Commision [^test]: :footcite:t:`masterpiececake` using the framework proposed by proponents of each model.
 
