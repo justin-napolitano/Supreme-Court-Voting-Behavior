@@ -1,11 +1,4 @@
-abstract.md
-
-
-.. _abstract:
-
-
-
-#Abstract
+# Abstract
 
 
 

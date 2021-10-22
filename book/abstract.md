@@ -1,11 +1,4 @@
-abstract.md
-
-
-.. _abstract:
-
-
-
-#Abstract
+# Abstract
 
 
 
@@ -22,6 +15,7 @@ abstract.md
 ```{tableofcontents}
 ```
 
+ 
 Justices, legal theorists, and laymen alike attempt to surmise the factors that influence the decision making of the Justices of the United State’s’ Supreme Court.  Some claim that text, intent, and precedent control the process.  Whereas, others attribute it to psychological attitudes, policy goals, and situations. 
 
 In this paper, the legal model to the attitidunal model to determine which best predicts, and more importantly which best descibes the decision-making process of US Supreme Court Justices.  
