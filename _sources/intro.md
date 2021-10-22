@@ -1,16 +1,22 @@
-# Welcome to your Jupyter Book
+# Supreme Court Voting Behavior
 
-This is a small sample book to give you a feel for how book content is
-structured.
+I wrote this paper as an independent research project to develop my political analysis skills.
 
-:::{note}
-Here is a note!
-:::
+I employ IBM's SPSS platform to perform statistical analysis of THe voting behavior of the individual justices of the United States Supreme Court.  
 
-And here is a code block:
 
-```
-e = mc^2
-```
+## Skills
 
-Check out the content pages bundled with this sample book to see more.
+### Political Analysis
+
+### Behavioral Analysis
+
+### Statistical Analysis
+
+### Open Source Intelligence Research
+
+
+## Platforms
+
+### IBM SPSS
+
