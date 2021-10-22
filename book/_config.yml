@@ -3,7 +3,6 @@
 
 title: Supreme Court Voting Behavior
 author: Justin Napolitano
-logo: logo.png
 copyright: "2021, Justin Napolitano"
 # Force re-execution of notebooks on each build.
 # See https://jupyterbook.org/content/execute.html
