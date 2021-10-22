@@ -7,16 +7,12 @@ I employ IBM's SPSS platform to perform statistical analysis of THe voting behav
 
 ## Skills
 
-### Political Analysis
-
-### Behavioral Analysis
-
-### Statistical Analysis
-
-### Open Source Intelligence Research
-
+    * Political Analysis
+    * Behavioral Analysis
+    * Statistical Anaysis
+    * Open Source Intelligence Research
 
 ## Platforms
 
-### IBM SPSS
+    * IBM SPSS
 
