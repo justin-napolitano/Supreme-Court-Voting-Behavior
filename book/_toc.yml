@@ -5,5 +5,4 @@ format: jb-book
 root: intro
 chapters:
 - file: abstract
-- file: markdown
-- file: notebooks
+- file: bibliography
