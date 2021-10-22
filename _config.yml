@@ -18,8 +18,9 @@ latex:
 
 # Add a bibtex file so that we can create citations
 bibtex_bibfiles:
-  - refs.bib
-  - cases.bib
+  - references/refs.bib
+  - references/cases.bib
+  - references/references.bib
 # Information about where the book exists on the web
 repository:
   url: https://github.com/executablebooks/jupyter-book  # Online location of your book
@@ -31,3 +32,8 @@ repository:
 html:
   use_issues_button: true
   use_repository_button: true
+
+sphinx:
+  config:
+    bibtex_reference_style: label
+
