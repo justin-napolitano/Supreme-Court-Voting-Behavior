@@ -4,11 +4,18 @@
 
 ```{admonition} Overview
 
-    This section introduces the reader to the paper.  
+This section introduces the reader to the paper.  
 
 
-    ```{Date} |today|```
-    ```{Author} **Justin Napolitano**```
+
+
+```
+{Author} 
+`Justin Napolitano`
+{sub-ref}`today`
+```
+
+
 ```
 
 
