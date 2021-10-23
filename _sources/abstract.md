@@ -22,3 +22,4 @@ I will test each model by attempting to predict the outcome of the case Masterpi
 [^masterpiece]: {cite}`masterpiececake`
 
 [^date]: This paper was written in 2018 directly prior to the publishing of the oppinion of the case. The papers has been rewritten to reflect the fact the results have been published for nearly 4 years. 
+
