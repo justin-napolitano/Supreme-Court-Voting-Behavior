@@ -1,5 +1,11 @@
 # Theorists and the Legal Model
 
+
+```{note}
+Under Construction.  This section and chapter will expand greatly.  
+
+Will also contain proper structuring and contents
+```
 ## Dworkin and the Legal Model
 
 Political theorists like Ronald Dworkin, in Taking Rights Seriously {cite}`dworkin2013taking` argues that jhustices do not freely exercise discretion according to ideological preference alone.  Instead, he posits that precedent guides justices towards a decision.  In contrast to attitudinal theorists he does not accept that Justices merely pick and choose from precedent in order to rationalize their individual values.  The law determined by precedent is considered to the rule which Justices follow.
@@ -18,3 +24,4 @@ Of the theorists and justices arguing for a legal model, Khan's argument is most
 * "The Court does not follow elections or politics, but views itself as autonomous from direct and indirect political pressures ({cite}`kahn1999institutional`, 177);"
 * “Justices do not follow personal policy wants ({cite}`kahn1999institutional`, 177);” 
 * “respect for precedent and principled decision making are central to decision making ({cite}`kahn1999institutional`, 177)."
+
