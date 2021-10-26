@@ -4,6 +4,8 @@ The definnition of the legal model varies by theorist.  The central premise howe
 The validity of the model is disputed amongst jurists, legal scholars, and political scientists.
 
 
-```note
+```{note}
 Under Construction.  This section and chapter will expand greatly.  
+
+Will also contain proper structuring and contents
 ```
