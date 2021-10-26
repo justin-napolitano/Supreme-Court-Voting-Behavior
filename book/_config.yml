@@ -17,10 +17,11 @@ latex:
 
 # Add a bibtex file so that we can create citations
 bibtex_bibfiles:
-  - references/articles.bib
-  - references/books.bib
-  - references/cases.bib
-  - references/references.bib
+  - bibliography/references/articles.bib
+  - bibliography/references/books.bib
+  - bibliography/references/cases.bib
+  - bibliography/references/bills.bib
+  - bibliography/references/constitution.bib
 # Information about where the book exists on the web
 repository:
   url: https://github.com/executablebooks/jupyter-book  # Online location of your book

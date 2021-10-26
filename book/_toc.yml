@@ -3,8 +3,35 @@
 
 format: jb-book
 root: intro
-chapters:
-- file: abstract
-- file: legalmodel
-- file: attitudinalmodel
-- file: bibliography
+parts:
+  - caption: Introduction
+    chapters:
+    - file: intro2
+  - caption: The Legal Model
+    chapters:
+    - file: legal-model/legal-intro
+    - file: legal-model/jurists-legal
+    - file: legal-model/theorists-legal
+    - file: legal-model/limits-legal
+  - caption: The Attitudinal Model
+    chapters: 
+    - file: attitudinal-model/intro-attitude
+    - file: attitudinal-model/political-science-predictive
+    - file: attitudinal-model/justices-create
+    - file: attitudinal-model/structural-systems-permit
+      sections:
+      - file: attitudinal-model/electroral-pressure-liberates
+      - file: attitudinal-model/presidential-influence-cannot
+      - file: attitudinal-model/superior-court-sovereign
+      - file: attitudinal-model/cert-will
+    - file: attitudinal-model/attitudinal-limits
+  - caption: Bibliography
+    chapters:
+    - file: bibliography/bibliography-full
+      sections: 
+      - file: bibliography/articles
+      - file: bibliography/books
+      - file: bibliography/cases
+      - file: bibliography/constitution
+      - file: bibliography/gov-bills
+      
