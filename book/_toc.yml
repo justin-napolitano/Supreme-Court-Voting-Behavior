@@ -24,6 +24,7 @@ parts:
       - file: attitudinal-model/presidential-influence-cannot
       - file: attitudinal-model/superior-court-sovereign
       - file: attitudinal-model/cert-will
+    - file: attitudinal-model/justices-create-ideological
     - file: attitudinal-model/attitudinal-limits
   - caption: Bibliography
     chapters:

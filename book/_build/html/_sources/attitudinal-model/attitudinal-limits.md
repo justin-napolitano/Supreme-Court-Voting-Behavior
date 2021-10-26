@@ -1,4 +1,4 @@
-# Limitation of the Attitudinal Model
+# Limitations of the Attitudinal Model
 
 While the court enjoys a great amount of leeway in their decision-making process, this is by no means unrestrained.  “Situations” apply in which the vote on certiorari, formation of the majority opinion, opinion assignment, and so on bound the range of possible Judicial decisions.  Therefore, attitudes and values alone cannot account for the all factors guiding a justice’s process of decision making.  Rather, they serve as the guiding principles that allow for a justice to rationally navigate the rules and situations facing the court.  Thus, the open-ended model permitting limitless discretion cannot be wholly accurate. A pure attitudinal model may explain voting on the merits, but does not address the problem of opinion formation.  
 

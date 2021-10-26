@@ -2,7 +2,7 @@
 
 
 (schubert)=
-# Justices Create Law According to their Ideological Preferences
+# Justices Create Law According to their Ideoligical Preferences
 The Judicial Mind [^mind-1] and The Judicial Mind Revisited [^mind-2] provided the first working attitudinal model of Supreme Court decision making.  He describes Judicial decision making as dependent upon ideological preferences and the context of facts of the case. 
 
 (schubert-case-study)=

@@ -2,7 +2,7 @@
 
 
 (schubert)=
-# Justices Create Law According to their Ideoligical Preferences
+# Justices Create Law According to their Ideological Preferences
 The Judicial Mind [^mind-1] and The Judicial Mind Revisited [^mind-2] provided the first working attitudinal model of Supreme Court decision making.  He describes Judicial decision making as dependent upon ideological preferences and the context of facts of the case. 
 
 (schubert-case-study)=
@@ -51,7 +51,6 @@ The primary goals of Supreme Court justices in the decision-making process are p
 In order for the justices to acquire their goals they must play by the rules of the game, “the various formal and informal rules and norms within the framework of which decisions are made.   As such, they specify which types of actions are permissible and which are impermissible, the circumstances and conditions under which choice may be exercised, and the manner of choosing[^rhode-and-spaeth-1976-71]."
 
 
-ion is unclear, judicial review is likely to be guided by the political prejudices and the policy preferences of the of the judges rather than by the Constitution itself [^posner-1999-36-40]
 
 
 [//]: # (Articles)
