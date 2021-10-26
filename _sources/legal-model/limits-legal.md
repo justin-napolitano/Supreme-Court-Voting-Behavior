@@ -1,4 +1,4 @@
-# Limitation of Legal Model
+# Limitations of the Legal Model
 
 In order for a legal model to be accurate a justice themself must accept the model to be legitimate.  Or in other words, justices must accept as precedent, plain meaning, and textual sources to be the proverbial word of god.  They must then hedge themselves into artificial boxes created by the framers and previous justices without considering their personal policy preferences or individual biases.  
 
