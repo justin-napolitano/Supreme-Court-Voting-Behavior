@@ -35,4 +35,18 @@ parts:
       - file: bibliography/cases
       - file: bibliography/constitution
       - file: bibliography/gov-bills
-      
+  - caption: Papers
+    chapters:
+    - file: masterpiece-cake/masterpiece-abstract
+      sections:
+      - file: masterpiece-cake/masterpiece-intro
+      - file: masterpiece-cake/masterpiece-hypothesis
+      - file: masterpiece-cake/masterpiece-experimental-design
+      - file: masterpiece-cake/masterpiece-case-study
+      - file: masterpiece-cake/masterpiece-attitudinal-case-study
+      - file: masterpiece-cake/masterpiece-findings
+
+
+
+
+  
