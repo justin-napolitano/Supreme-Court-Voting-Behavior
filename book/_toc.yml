@@ -55,7 +55,11 @@ parts:
       sections:
       - file: metadata-graph/graph-intro
       - file: metadata-graph/graph-code
-      
+  - caption: External Resources
+    chapters:
+    - file: resources/supreme-court-database
+    - file: resources/jupyter-book
+    - file: resources/sphinx  
 
 
   

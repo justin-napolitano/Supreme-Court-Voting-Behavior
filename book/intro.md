@@ -1,25 +1,17 @@
 # Supreme Court Voting Behavior
 
-## Project Focus
-The focus of this project is to serve as a repository for theories of Judicial Voting Behavior.  
-
-
 ## Background
-I began this project as an indepent research paper that I had written during my senior year of university studies under the tutelage of Dr. Lanier of the University of Central Florida. 
-
-I later published it on github as a portfolio piece. 
+I started this project as an independent research effort during my senior year of university studies with guidance from Dr. Drew Lanier of the University of Central Florida.  
 
 ## Open Source Project
-I am now seeking to expand it with the aid of other researchers.  
+The literature review needs to be greatly expanded and improved upon.  
 
-If you would like to contribute please email Justin Napolitano at napolitano.just@gmail.com.  
+If you would like to contribute please message me (Justin Napolitano) at contribute@court-behavior.io
 
 You may also clone this repository and work directly with the jupyter-books tools.  I will post the links to the installation and configuration pages soon.  
 
-I have studied the Attitudinal Models as proposed by a number of theorists [^see-the-attitudinal-model].  Therefore, my work is heavily biased.
-
-Contributions are greatly appreciated.  
-
+## Disclosure
+I studied the Attitudinal Model as proposed by a number of theorists [^see-the-attitudinal-model].  Therefore, my work is heavily biased.
 
 
 ## Table of Contents
