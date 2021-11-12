@@ -45,8 +45,13 @@ parts:
       - file: masterpiece-cake/masterpiece-case-study
       - file: masterpiece-cake/masterpiece-attitudinal-case-study
       - file: masterpiece-cake/masterpiece-findings
-
-
+    - file: ml/ml-abstract
+      sections:
+      - file: ml/ml-intro
+      - file: ml/ml-case-centric
+      - file: ml/ml-justice-centric
+      - file: ml/ml-results
+      
 
 
   
