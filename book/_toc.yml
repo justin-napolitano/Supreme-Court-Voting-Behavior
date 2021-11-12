@@ -51,6 +51,10 @@ parts:
       - file: ml/ml-case-centric
       - file: ml/ml-justice-centric
       - file: ml/ml-results
+    - file: metadata-graph/graph-abstract
+      sections:
+      - file: metadata-graph/graph-intro
+      - file: metadata-graph/graph-code
       
 
 

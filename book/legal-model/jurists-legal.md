@@ -1,4 +1,4 @@
-## Jurists and the Legal Model
+# Jurists and the Legal Model
 
 
 ```{note}
