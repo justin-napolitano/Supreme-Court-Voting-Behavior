@@ -1,9 +1,11 @@
 (graph-intro)=
-# Introduction
+
+# Intro
 
 ```{note}
 Under Construction.
 
-A well written abstract intro to be written.
 ```
-   
+
+The code in the following sections enables researchers to build databases of the metadata of the entire body of work of the United States Supreme Court.
+
