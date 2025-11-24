@@ -1,12 +1,27 @@
 ---
-slug: "github-supreme-court-voting-behavior"
-title: "Supreme-Court-Voting-Behavior"
-repo: "justin-napolitano/Supreme-Court-Voting-Behavior"
-githubUrl: "https://github.com/justin-napolitano/Supreme-Court-Voting-Behavior"
-generatedAt: "2025-11-23T09:44:43.791688Z"
-source: "github-auto"
+slug: github-supreme-court-voting-behavior
+title: Analyzing Supreme Court Voting Behavior with Machine Learning
+repo: justin-napolitano/Supreme-Court-Voting-Behavior
+githubUrl: https://github.com/justin-napolitano/Supreme-Court-Voting-Behavior
+generatedAt: '2025-11-23T09:44:43.791688Z'
+source: github-auto
+summary: >-
+  Technical overview of a project combining political science theory and machine learning to model
+  and predict US Supreme Court justice votes.
+tags:
+  - supreme-court
+  - judicial-politics
+  - machine-learning
+  - political-science
+  - python
+  - data-analysis
+seoPrimaryKeyword: Supreme Court voting behavior
+seoSecondaryKeywords:
+  - machine learning
+  - judicial decision-making
+  - political science models
+seoOptimized: true
 ---
-
 
 # Supreme Court Voting Behavior: Technical Overview
 
