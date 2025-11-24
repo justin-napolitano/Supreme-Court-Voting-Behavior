@@ -21,6 +21,12 @@ seoSecondaryKeywords:
   - judicial decision-making
   - political science models
 seoOptimized: true
+topicFamily: datascience
+topicFamilyConfidence: 0.95
+topicFamilyNotes: >-
+  The post is a technical and research overview involving data analysis, machine learning modeling,
+  and computational political science, aligning closely with the datascience family focused on data
+  analysis projects, notebooks, ETL pipelines, and scientific data workflows.
 ---
 
 # Supreme Court Voting Behavior: Technical Overview
@@ -80,3 +86,4 @@ The approach is empirical and grounded in data, avoiding normative or motivation
 For further details, refer to the documentation in the `book/` directory and the source code in `book/ml/`.
 
 Contact Justin Napolitano at contribute@court-behavior.io for collaboration or questions.
+
