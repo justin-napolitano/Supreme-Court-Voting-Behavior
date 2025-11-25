@@ -7,8 +7,8 @@ githubUrl: https://github.com/justin-napolitano/Supreme-Court-Voting-Behavior
 generatedAt: '2025-11-24T21:36:36.431Z'
 source: github-auto
 summary: >-
-  Explore voting behavior of U.S. Supreme Court justices using machine learning
-  and case studies, with a focus on decision-making models.
+  Explore voting behavior of U.S. Supreme Court justices using machine learning and case studies,
+  with a focus on decision-making models.
 tags:
   - python
   - machine learning
@@ -25,8 +25,8 @@ seoSecondaryKeywords:
   - data analysis with pandas
   - jupyter book documentation
 seoOptimized: true
-topicFamily: null
-topicFamilyConfidence: null
+topicFamily: datascience
+topicFamilyConfidence: 0.9
 kind: project
 entryLayout: project
 showInProjects: true
@@ -142,4 +142,5 @@ For contributions or questions, please contact Justin Napolitano at contribute@c
 # License
 
 This project does not currently specify a license. Please contact the author for permissions.
+
 
