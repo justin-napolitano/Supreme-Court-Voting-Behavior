@@ -1,21 +1,30 @@
 ---
 slug: github-supreme-court-voting-behavior
 id: github-supreme-court-voting-behavior
-title: Supreme Court Voting Behavior
+title: Supreme Court Voting Behavior Analysis with Machine Learning
 repo: justin-napolitano/Supreme-Court-Voting-Behavior
 githubUrl: https://github.com/justin-napolitano/Supreme-Court-Voting-Behavior
 generatedAt: '2025-11-24T21:36:36.431Z'
 source: github-auto
 summary: >-
-  This repository contains research and analysis on the voting behavior of the
-  United States Supreme Court justices. It explores different models of judicial
-  decision-making, including the Legal Model and the Attitudinal Model, with a
-  focus on case studies such as Masterpiece Cakeshop, Ltd. v. Colorado Civil
-  Rights Commission.
-tags: []
-seoPrimaryKeyword: ''
-seoSecondaryKeywords: []
-seoOptimized: false
+  Explore voting behavior of U.S. Supreme Court justices using machine learning
+  and case studies, with a focus on decision-making models.
+tags:
+  - python
+  - machine learning
+  - tensorflow
+  - scikit-learn
+  - pandas
+  - data visualization
+  - jupyter book
+seoPrimaryKeyword: supreme court voting behavior analysis
+seoSecondaryKeywords:
+  - judicial decision-making models
+  - case studies on voting patterns
+  - python machine learning project
+  - data analysis with pandas
+  - jupyter book documentation
+seoOptimized: true
 topicFamily: null
 topicFamilyConfidence: null
 kind: project
